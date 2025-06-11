@@ -1,1 +1,1 @@
-Créditos ao: https://github.com/itselectroz
+Créditos ao: [barncastle](https://gist.github.com/barncastle/)
